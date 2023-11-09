@@ -26,3 +26,8 @@ table{
     background-color: rgb(4, 4, 58);
     color: white;
 }
+
+.body {
+    max-width: 800px;
+
+}
